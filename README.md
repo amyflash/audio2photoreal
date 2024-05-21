@@ -1,3 +1,4 @@
+数字人相关项目
 # From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations
 This repository contains a pytorch implementation of ["From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations"](https://people.eecs.berkeley.edu/~evonne_ng/projects/audio2photoreal/)
 
